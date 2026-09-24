@@ -1,1 +1,1 @@
-# DEPTIC-DEMO1
+# deptic-demo
